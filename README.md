@@ -14,7 +14,7 @@ Add a hyperlink to your lab1 assignment here:
 * Mahammed Zishan Khan: https://github.com/silent785/webtech2
 * Tom De Moor: https://github.com/tommooredotbe/webtech2-bestrepositoryeu
 * Caro Baten: https://github.com/ritchiejacobs/webtech2-lab1.git
-* Anton Wijns: https://github.com/ritchiejacobs/webtech2-lab1.git
+* Anton Wijns: https://github.com/antonwijns/webtech2.git
 * Jurgen Barbier: https://github.com/jurgb/2imd-webtech2-labs.git
 * Jens Ivens: https://github.com/jurgb/webtechweek1.git
 * Yannick Nijs: https://github.com/yncredible/webtech2.git
